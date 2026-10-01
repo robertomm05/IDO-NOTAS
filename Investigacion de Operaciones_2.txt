@@ -1,0 +1,37 @@
+Investigacion de Operaciones
+Esta disciplina no surgió de la teoría pura, sino de una necesidad urgente durante la Segunda
+Guerra Mundial, cuando equipos multidisciplinarios de científicos y estrategas fueron
+convocados para optimizar la logística militar, desde la distribución de suministros hasta la
+coordinación de convoyes. Con el paso de las décadas, su utilidad trascendió el ámbito militar
+para instalarse de lleno en la vida cotidiana y empresarial. Hoy en día, es la base invisible
+detrás de la programación eficiente de vuelos comerciales, el diseño de cadenas de suministro
+globales, la optimización de inventarios y la planeación de la producción industrial para
+maximizar los márgenes de ganancia.
+El proceso analítico consiste en construir un puente metodológico: se parte de un problema
+del mundo real, se traduce fielmente a un modelo de ecuaciones matemáticas, se procesa
+mediante algoritmos especializados y, finalmente, se interpreta el resultado numérico para
+traducirlo en una directriz de negocio clara y aplicable.
+Para transformar una situación compleja en un sistema manejable, se sigue un procedimiento
+estructurado que garantiza orden y rigor. Una vez que el modelo cuenta con múltiples
+ecuaciones y relaciones, su manejo manual se vuelve complicado. Para evitar confusiones y
+agilizar los cálculos, se recurre al uso de matrices, las cuales funcionan como tablas
+organizadas que agrupan los coeficientes numéricos, permitiendo operar de forma directa sin
+la saturación de símbolos algebraicos.
+Cuando los problemas superan el ámbito gráfico tradicional, el método simplex se convierte
+en el algoritmo estrella para encontrar la solución óptima. Como esta técnica requiere trabajar
+estrictamente con igualdades matemáticas, se vale de variables auxiliares que cumplen
+funciones muy específicas. A través de iteraciones estructuradas conocidas comúnmente
+como "pivotear", el algoritmo guía paso a paso al analista para determinar qué variable debe
+ingresar a la base y cuál debe salir, actualizando las tablas hasta alcanzar la combinación
+óptima que satisface la función objetivo.
+Un principio fundamental de esta disciplina es que nunca se debe confiar ciegamente en un
+resultado arrojado por el modelo matemático solo porque los números parezcan correctos.
+Todo resultado analítico debe someterse a una prueba de sentido común y contexto operativo,
+ya que en la práctica pueden surgir situaciones atípicas como modelos sin solución factible,
+supuestos de recursos ilimitados o escenarios donde múltiples rutas arrojan la misma
+ganancia.
+Asimismo, es indispensable considerar la naturaleza física de lo que se está midiendo. Si un
+cálculo matemático aplicado a la producción de bienes discretos (como computadoras,
+vehículos o muebles) arroja un valor con decimales por ejemplo, fabricar 12.4 unidades, el
+tomador de decisiones debe saber interpretar y redondear adecuadamente el resultado final
+con base en las restricciones del mundo real.
